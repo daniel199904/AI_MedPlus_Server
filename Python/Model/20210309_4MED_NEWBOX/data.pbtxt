@@ -1,0 +1,16 @@
+item {
+	id: 1
+	name: 'MEDCOL'
+}
+item {
+	id: 2
+	name: 'MEDCOU'
+}
+item {
+	id: 3
+	name: 'MEDPAI'
+}
+item {
+	id: 4
+	name: 'MEDRHI'
+}
